@@ -13,8 +13,9 @@ A repository of cheatsheets for commonly used programs
 | --- | --- | ---
 | `screen`  |     | New screen
 |           |`-n` | Name screen
-|           |`-r` | Reattach to named screen
+|           |`-S` | Reattach to named screen
 | `ctrl + a`|`d`  | Deattach
+|           |`K`  | Deattach and kill
 |           |`S`  | Split window horizontally
 |           |`tab`| Toggel through windows
 |           |`"`  | List windows.
