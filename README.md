@@ -17,8 +17,9 @@ A repository of cheatsheets for commonly used programs
 | `ctrl + a`|`d`  | Deattach
 |           |`K`  | Deattach and kill
 |           |`S`  | Split window horizontally
+|           |`c`  | New window
 |           |`tab`| Toggel through windows
-|           |`"`  | List windows.
+|           |`"`  | List windows
 
 ## sftp
 | Command | Flag | Description
