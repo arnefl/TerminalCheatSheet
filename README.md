@@ -12,8 +12,8 @@ A repository of cheatsheets for commonly used programs
 | Command | Flag | Description
 | --- | --- | ---
 | `screen`  |     | New screen
-|           |`-n` | Name screen
-|           |`-S` | Reattach to named screen
+|           |`-S` | Name screen
+|           |`-r` | Reattach to named screen
 | `ctrl + a`|`d`  | Deattach
 |           |`K`  | Deattach and kill
 |           |`S`  | Split window horizontally
