@@ -14,6 +14,7 @@ A repository of cheatsheets for commonly used programs
 | `screen`  |     | New screen
 |           |`-S` | Name screen
 |           |`-r` | Reattach to named screen
+|           |`-ls` | List running screens
 | `ctrl + a`|`d`  | Deattach
 |           |`K`  | Deattach and kill
 |           |`S`  | Split window horizontally
